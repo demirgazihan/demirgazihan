@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java Spring Boot and React.<br>🌱 I’m currently learning Kafka, AWS and Docker.<br>💬 Ask me about everything.<br>
+🔭 I’m currently working on Java Spring Boot and React.<br>🌱 I’m currently learning Kafka, Redis, AWS and Docker.<br>💬 Ask me about everything.<br>
 
 
 ## 🌐 Socials:
